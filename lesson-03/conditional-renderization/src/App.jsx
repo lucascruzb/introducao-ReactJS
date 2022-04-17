@@ -30,7 +30,7 @@ const App = () => {
 
     return (
       <div>
-        <h1>Nome do Cliente: Bruno Carneiro</h1>
+        <h1> Nome do Cliente: Cxlxmbiv Kids </h1>
       </div>
     )
   }
@@ -40,8 +40,8 @@ const App = () => {
 
   return (
     <div>
-      <p>Digital Innovation One</p>
-      <p>Bem vindo a nossa aula =D.</p>
+      <p>Cxlxmbiv Kids</p>
+      <p>Bem vindo a nossa aula</p>
       {hasCustomer ? renderShowHistory : renderAddCustomer}
       <div>
         {showCustomer()}

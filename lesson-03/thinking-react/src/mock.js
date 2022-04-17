@@ -1,24 +1,25 @@
 const mock = [
   {
     id: 1,
-    name: 'Bruno Carneiro',
+    name: 'Cxlxmbiv Kids',
     skills: ['React', 'Node', 'CSS', 'Webpack']
   },
   {
     id: 2,
-    name: 'Aline Carneiro',
+    name: 'Unipampa',
     skills: ['HTML', 'React Native', 'Go', 'JS']
   },
   {
     id: 3,
-    name: 'Fulano de Tal',
+    name: 'Discente ',
     skills: ['Assembly']
   },
   {
     id: 4,
-    name: 'José Ciclano',
+    name: 'Pessoa aleatoria',
     skills: ['Reason']
   }
 ]
+
 
 export default mock

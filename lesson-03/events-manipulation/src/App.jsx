@@ -3,22 +3,22 @@ import React from "react";
 const listCustomer = [
   {
     id: 1,
-    name: 'Bruno Carneiro',
+    name: 'Cxlxmbiv Kids',
     skills: ['React', 'Node', 'CSS', 'Webpack']
   },
   {
     id: 2,
-    name: 'Aline Carneiro',
+    name: 'Unipampa',
     skills: ['HTML', 'React Native', 'Go', 'JS']
   },
   {
     id: 3,
-    name: 'Fulano de Tal',
+    name: 'Discente ',
     skills: ['Assembly']
   },
   {
     id: 4,
-    name: 'José Ciclano',
+    name: 'Pessoa aleatoria',
     skills: ['Reason']
   }
 ]
@@ -49,8 +49,8 @@ const App = () => {
 
   return (
     <div>
-      <p>Digital Innovation One</p>
-      <p>Bem vindo a nossa aula =D.</p>
+      <p>Cxlxmbiv Kids</p>
+      <p>Bem vindo a nossa aula</p>
       <div>
         <ul>
           {listCustomer.map(renderCustomers)}

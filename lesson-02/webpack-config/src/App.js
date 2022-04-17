@@ -1,13 +1,14 @@
 import React from "react";
-import Button from './Button'
+import Button from './Button.js'
 const App = () => {
   return (
     <div>
-      <p>Digital Innovation One</p>
-      <p>Bem vindo a nossa aula =D.</p>
+      <p>Cxlxmbiv Kids</p>
+      <p>Bem vindo</p>
       <div>Webpack 4</div>
-      <Button />
+      <Button/>
     </div>
   );
 };
+
 export default App;
