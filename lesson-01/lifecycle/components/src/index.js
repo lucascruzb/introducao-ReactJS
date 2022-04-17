@@ -13,10 +13,10 @@ function App() {
   return (
     <div className="App">
       Hello World
-      <Button onClick={() => soma(10, 20)} name="Bruno Carneiro" />
+      <Button onClick={() => soma(10, 20)} name="Cxlxmbiv Kids" />
       <ComponentA>
         <ComponentB>
-          <Button onClick={() => soma(40, 20)} name="Aline Carneiro" />
+          <Button onClick={() => soma(40, 20)} name="Cxlxmbiv Kids * 2" />
         </ComponentB>
       </ComponentA>
     </div>

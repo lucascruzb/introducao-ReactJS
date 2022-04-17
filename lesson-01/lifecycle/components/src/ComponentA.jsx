@@ -2,7 +2,7 @@ import React from 'react'
 
 function ComponenteA(props) {
   return (
-    <div>Componente A =D
+    <div>Componente A
       <div>{props.children}</div>
     </div>
   )
